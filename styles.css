@@ -9,7 +9,7 @@ body {
 
   /* Sets a custom font */
   font-weight: 900;
-  font-family: fantasy;
+  font-family: arial;
   font-size: 50px;
 
   /* Sets colors */
@@ -37,7 +37,7 @@ body {
   color: white;
   font-size: 30px;
   font-weight: 900;
-  font-family: fantasy;
+  font-family: arial;
 
   /*Creates a gradient to make text more readable (https://cssgradient.io/)*/
   background: rgb(0,0,0);
@@ -47,7 +47,7 @@ body {
 #logButton {
   /* Sets font settings */
   font-weight: 900;
-  font-family: fantasy;
+  font-family: arial;
   font-size: 25px;
 
   /* Sets colors */
@@ -55,7 +55,7 @@ body {
   color: white;
 
   /* Sets parameters */
-  width: 200;
+  width: 450;
   height: 50;
   border: 1px solid transparent;
   margin: 10px;
